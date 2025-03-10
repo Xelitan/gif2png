@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="gif2png.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="18"/>
+        <CursorPos X="33" Y="57"/>
+        <UsageCount Value="27"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\AppData\Local\lazarus\onlinepackagemanager\packages\BGRABitmap\bgrabitmap\bgrabitmap.pas"/>
+        <UnitName Value="BGRABitmap"/>
+        <EditorIndex Value="15"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\AppData\Local\lazarus\onlinepackagemanager\packages\BGRABitmap\bgrabitmap\bgrasvg.pas"/>
+        <UnitName Value="BGRASVG"/>
+        <EditorIndex Value="9"/>
+        <TopLine Value="234"/>
+        <CursorPos X="36" Y="243"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\AppData\Local\lazarus\onlinepackagemanager\packages\BGRABitmap\bgrabitmap\bgrasvgtype.pas"/>
+        <UnitName Value="BGRASVGType"/>
+        <EditorIndex Value="11"/>
+        <TopLine Value="80"/>
+        <CursorPos X="20" Y="118"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\AppData\Local\lazarus\onlinepackagemanager\packages\BGRABitmap\bgrabitmap\geometrytypes.inc"/>
+        <EditorIndex Value="12"/>
+        <CursorPos X="12" Y="165"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\AppData\Local\lazarus\onlinepackagemanager\packages\BGRABitmap\bgrabitmap\bgraclasses.pas"/>
+        <UnitName Value="BGRAClasses"/>
+        <EditorIndex Value="13"/>
+        <TopLine Value="30"/>
+        <CursorPos X="23" Y="53"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus64\fpc\3.2.2\source\rtl\objpas\types.pp"/>
+        <UnitName Value="Types"/>
+        <EditorIndex Value="14"/>
+        <TopLine Value="96"/>
+        <CursorPos X="3" Y="107"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\AppData\Local\lazarus\onlinepackagemanager\packages\BGRABitmap\bgrabitmap\bgraunits.pas"/>
+        <UnitName Value="BGRAUnits"/>
+        <EditorIndex Value="10"/>
+        <TopLine Value="163"/>
+        <CursorPos X="3" Y="19"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\AppData\Local\lazarus\onlinepackagemanager\packages\BGRABitmap\bgrabitmap\bgrawinbitmap.pas"/>
+        <UnitName Value="BGRAWinBitmap"/>
+        <EditorIndex Value="5"/>
+        <CursorPos X="30" Y="23"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\AppData\Local\lazarus\onlinepackagemanager\packages\BGRABitmap\bgrabitmap\bgralclbitmap.pas"/>
+        <UnitName Value="BGRALCLBitmap"/>
+        <EditorIndex Value="6"/>
+        <CursorPos X="38" Y="14"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\AppData\Local\lazarus\onlinepackagemanager\packages\BGRABitmap\bgrabitmap\bgradefaultbitmap.pas"/>
+        <UnitName Value="BGRADefaultBitmap"/>
+        <EditorIndex Value="7"/>
+        <CursorPos X="42" Y="37"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\AppData\Local\lazarus\onlinepackagemanager\packages\BGRABitmap\bgrabitmap\bgracustombitmap.inc"/>
+        <EditorIndex Value="8"/>
+        <CursorPos X="3" Y="12"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\AppData\Local\lazarus\onlinepackagemanager\packages\BGRABitmap\bgrabitmap\unibitmap.inc"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="227"/>
+        <CursorPos X="68" Y="248"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\AppData\Local\lazarus\onlinepackagemanager\packages\BGRABitmap\bgrabitmap\bgrabitmaptypes.pas"/>
+        <UnitName Value="BGRABitmapTypes"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="127"/>
+        <CursorPos X="3" Y="130"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus38\onlinepackagemanager\packages\BGRABitmap\bgrabitmap\bgrareadgif.pas"/>
+        <UnitName Value="BGRAReadGif"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="54" Y="28"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus38\fpc\3.2.2\source\packages\fcl-image\src\fpreadgif.pas"/>
+        <UnitName Value="FPReadGif"/>
+        <EditorIndex Value="2"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="gif2png.lpr"/>
+        <Caret Line="35" Column="15" TopLine="12"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\..\AppData\Local\lazarus\onlinepackagemanager\packages\BGRABitmap\bgrabitmap\bgrawinbitmap.pas"/>
+        <Caret Line="23" Column="30"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\..\AppData\Local\lazarus\onlinepackagemanager\packages\BGRABitmap\bgrabitmap\bgralclbitmap.pas"/>
+        <Caret Line="14" Column="38"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\..\AppData\Local\lazarus\onlinepackagemanager\packages\BGRABitmap\bgrabitmap\bgradefaultbitmap.pas"/>
+        <Caret Line="37" Column="42"/>
+      </Position>
+      <Position>
+        <Filename Value="gif2png.lpr"/>
+        <Caret Line="36" Column="17" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\..\AppData\Local\lazarus\onlinepackagemanager\packages\BGRABitmap\bgrabitmap\unibitmap.inc"/>
+        <Caret Line="248" Column="68" TopLine="227"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\..\AppData\Local\lazarus\onlinepackagemanager\packages\BGRABitmap\bgrabitmap\bgrabitmaptypes.pas"/>
+        <Caret Line="137" Column="37" TopLine="115"/>
+      </Position>
+      <Position>
+        <Filename Value="gif2png.lpr"/>
+        <Caret Line="31" Column="50" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="gif2png.lpr"/>
+        <Caret Line="81" Column="47" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="gif2png.lpr"/>
+        <Caret Line="21" Column="23"/>
+      </Position>
+      <Position>
+        <Filename Value="gif2png.lpr"/>
+        <Caret Line="69" Column="22" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="gif2png.lpr"/>
+        <Caret Line="56" Column="3" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="gif2png.lpr"/>
+        <Caret Line="31" Column="37" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="gif2png.lpr"/>
+        <Caret Line="49" Column="12" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="gif2png.lpr"/>
+        <Caret Line="27" Column="16" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="gif2png.lpr"/>
+        <Caret Line="50" Column="12" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="gif2png.lpr"/>
+        <Caret Line="55" Column="9" TopLine="33"/>
+      </Position>
+      <Position>
+        <Filename Value="gif2png.lpr"/>
+        <Caret Line="58" Column="9" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="gif2png.lpr"/>
+        <Caret Line="63" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="gif2png.lpr"/>
+        <Caret Line="28" Column="24" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="gif2png.lpr"/>
+        <Caret Line="69" Column="30" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="gif2png.lpr"/>
+        <Caret Line="30" Column="22" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="gif2png.lpr"/>
+        <Caret Line="54" Column="23" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="gif2png.lpr"/>
+        <Caret Line="100" Column="26" TopLine="83"/>
+      </Position>
+      <Position>
+        <Filename Value="gif2png.lpr"/>
+        <Caret Line="64" Column="30" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="gif2png.lpr"/>
+        <Caret Line="28" Column="15" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="gif2png.lpr"/>
+        <Caret Line="29" Column="14" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="gif2png.lpr"/>
+        <Caret Line="74" Column="47" TopLine="42"/>
+      </Position>
+      <Position>
+        <Filename Value="gif2png.lpr"/>
+        <Caret Line="9" Column="62"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus38\onlinepackagemanager\packages\BGRABitmap\bgrabitmap\bgrareadgif.pas"/>
+        <Caret Line="28" Column="54"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
